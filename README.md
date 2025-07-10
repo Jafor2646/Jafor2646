@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Jafor Mohammad  
 
-I’m a final-year Computer Science student at BRAC University, passionate about building impactful software solutions and ensuring secure applications.  
+I’m a recently graduated Computer Science student at BRAC University, passionate about building impactful software solutions and ensuring secure applications.  
 
 ### 🛠️ Skills & Technologies  
 - **Languages:** JavaScript, TypeScript, Java, Python, C, C++ 
-- **Frameworks & Tools:** MERN Stack, Spring Boot  
+- **Frameworks & Tools:** MERN Stack, Spring Boot, GIT, Docker, Linux  
 - **Databases:** MySQL, MONGODB 
 - **Interests:** Problem-solving, cybersecurity, software security and software engineering 
 
