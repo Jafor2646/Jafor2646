@@ -3,9 +3,9 @@
 I’m a recently graduated Computer Science student at BRAC University, and started my professional career as graduate engineer at konasl in Nagad App development team(as android app developer), passionate about building impactful software solutions and ensuring secure applications.  
 
 ### 🛠️ Skills & Technologies  
-- **Languages:** JavaScript, TypeScript, Java, Python, C, C++ 
-- **Frameworks & Tools:** MERN Stack, Spring Boot, GIT, Docker, Linux  
-- **Databases:** MySQL, MONGODB 
+- **Languages:** Kotlin, JavaScript, TypeScript, Java, Python, C, C++
+- **Frameworks & Tools:** MVC, MMVM, MERN Stack, Spring Boot, GIT, Docker, Linux, Android Studio  
+- **Databases:** MySQL, MONGODB, SQLITE, ROOM Database 
 - **Interests:** Problem-solving, cybersecurity, software security and software engineering 
 
 ### 🌟 Highlights
