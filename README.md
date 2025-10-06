@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jafor Mohammad  
 
-I’m a recently graduated Computer Science student at BRAC University, passionate about building impactful software solutions and ensuring secure applications.  
+I’m a recently graduated Computer Science student at BRAC University, and started my professional career as graduate engineer at konasl in Nagad App development team(as android app developer), passionate about building impactful software solutions and ensuring secure applications.  
 
 ### 🛠️ Skills & Technologies  
 - **Languages:** JavaScript, TypeScript, Java, Python, C, C++ 
@@ -8,7 +8,8 @@ I’m a recently graduated Computer Science student at BRAC University, passiona
 - **Databases:** MySQL, MONGODB 
 - **Interests:** Problem-solving, cybersecurity, software security and software engineering 
 
-### 🌟 Highlights  
+### 🌟 Highlights
+- Graduate Engineer at Kona Software Lab in Nagad App team as android app developer.
 - Solved 275+ LeetCode problems, including 146 medium and 46 hard challenges  
 - Developed full-stack applications using Spring Boot, MySQL, and MERN stack  
 - Current projects: Exploring secure software development 
