@@ -9,7 +9,7 @@ I’m a recently graduated Computer Science student at BRAC University, and star
 - **Interests:** Problem-solving, cybersecurity, software security and software engineering 
 
 ### 🌟 Highlights
-- Graduate Engineer at Kona Software Lab in Nagad App team as android app developer.
+- Graduate Engineer at Kona Software Lab in Nagad App team as an Android app and backend developer.
 - Solved 275+ LeetCode problems, including 146 medium and 46 hard challenges  
 - Developed full-stack applications using Spring Boot, MySQL, and MERN stack  
 - Current projects: Exploring secure software development 
