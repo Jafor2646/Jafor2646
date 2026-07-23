@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jafor Mohammad  
 
-I’m a recently graduated Computer Science student at BRAC University, and started my professional career as graduate engineer at kona SL in Nagad App development team(as android app developer), passionate about building impactful software solutions and ensuring secure applications.  
+I’m a recently graduated Computer Science student at BRAC University, and started my professional career as graduate engineer at kona SL in Nagad App development team(as android app and backend developer), passionate about building impactful software solutions and ensuring secure applications.  
 
 ### 🛠️ Skills & Technologies  
 - **Languages:** Kotlin, JavaScript, TypeScript, Java, Python, C, C++
